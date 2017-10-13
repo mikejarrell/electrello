@@ -8,7 +8,7 @@ A desktop app that helps you manage your Trello boards.
 ## Contributing
 
 If you'd like to help out, feel free to..
-  - clone the repo
+  - clone the repository
   - make a feature branch
   - make a pull request
 
